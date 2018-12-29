@@ -18,7 +18,7 @@ BOSS_BAR_LOBBY:
 - '§c§lNEW! §fВідкрили класний режим §a§lAnarchy §c1.10+'
 - '§fПовідомте про§c баг§f або§c помилку §7► §6§lLASTCRAFT.NET/FORUMS'
 
-RULES_COMMAND: '§6Cервер §8| §fПовний список правил сервера - '
+RULES_COMMAND: '§6Cервер §8| §fПовний список правили сервера - '
 RULES_COMMAND_HOVER: '§fНатисніть сюди для\n§fпереходу на посилання'
 
 NO_PERMS: '§cУ вас немає прав'
